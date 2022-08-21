@@ -1,5 +1,5 @@
-vless://3047e79d-7931-45a7-a285-2960c10fa54b@172.66.46.153:443?type=ws&security=tls&path=%2F3047e79d-7931-45a7-a285-2960c10fa54b&host=bitter-mountain-73c8.vgyr.tk&sni=bitter-mountain-73c8.vgyr.tk&alpn=#vless%40172.66.46.153%3A443
-vless://3047e79d-7931-45a7-a285-2960c10fa54b@172.66.46.153:443?type=ws&security=tls&path=%2F3047e79d-7931-45a7-a285-2960c10fa54b&host=dawn-rain-efb1.vgyr.tk&sni=dawn-rain-efb1.vgyr.tk&alpn=#vless%40172.66.46.153%3A443
+vless://3047e79d-7931-45a7-a285-2960c10fa54b@172.67.175.153:443?encryption=none&security=tls&sni=bitter-mountain-73c8.vgyr.tk&type=ws&host=bitter-mountain-73c8.vgyr.tk&path=%2F3047e79d-7931-45a7-a285-2960c10fa54b
+vless://3047e79d-7931-45a7-a285-2960c10fa54b@172.67.175.153:443?encryption=none&security=tls&sni=dawn-rain-efb1.vgyr.tk&type=ws&host=dawn-rain-efb1.vgyr.tk&path=%2F3047e79d-7931-45a7-a285-2960c10fa54b
 vless://2b3be6df-e65e-43e6-83b4-88c5942b9ac7@172.66.46.153:443?encryption=none&security=tls&sni=fragrant-mouse-94b2.vgyr.tk&type=ws&host=fragrant-mouse-94b2.vgyr.tk&path=%2F2b3be6df-e65e-43e6-83b4-88c5942b9ac7
 vless://2b3be6df-e65e-43e6-83b4-88c5942b9ac7@172.66.46.153:443?encryption=none&security=tls&sni=autumn-hill-149e.vgyr.tk&type=ws&host=autumn-hill-149e.vgyr.tk&path=%2F2b3be6df-e65e-43e6-83b4-88c5942b9ac7
 vless://2b3be6df-e65e-43e6-83b4-88c5942b9ac7@172.66.46.153:443?encryption=none&security=tls&sni=proud-dew-4563.vgyr.tk&type=ws&host=proud-dew-4563.vgyr.tk&path=%2F2b3be6df-e65e-43e6-83b4-88c5942b9ac7
